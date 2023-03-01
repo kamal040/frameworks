@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-26T07:17:13Z" name="Suite" finished-at="2023-02-26T07:18:27Z" duration-ms="73555">
+    <groups>
+    </groups>
+    <test started-at="2023-02-26T07:17:13Z" name="Test" finished-at="2023-02-26T07:18:27Z" duration-ms="73555">
+      <class name="com.hrms.scripts.Tc005_mouse">
+        <test-method signature="mouse()[pri:0, instance:com.hrms.scripts.Tc005_mouse@2796aeae]" started-at="2023-02-26T12:48:23Z" name="mouse" finished-at="2023-02-26T12:48:27Z" duration-ms="3640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouse -->
+      </class> <!-- com.hrms.scripts.Tc005_mouse -->
+      <class name="com.hrms.scripts.Tc003_edit_emp">
+        <test-method signature="tc003()[pri:0, instance:com.hrms.scripts.Tc003_edit_emp@7a67e3c6]" started-at="2023-02-26T12:47:56Z" name="tc003" finished-at="2023-02-26T12:48:17Z" duration-ms="21777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc003 -->
+      </class> <!-- com.hrms.scripts.Tc003_edit_emp -->
+      <class name="com.hrms.scripts.Tc002_add_emp">
+        <test-method signature="tc002()[pri:0, instance:com.hrms.scripts.Tc002_add_emp@7b205dbd]" started-at="2023-02-26T12:47:33Z" name="tc002" finished-at="2023-02-26T12:47:55Z" duration-ms="22494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+      </class> <!-- com.hrms.scripts.Tc002_add_emp -->
+      <class name="com.hrms.scripts.Tc001_login">
+        <test-method signature="tc001()[pri:0, instance:com.hrms.scripts.Tc001_login@6cc558c6]" started-at="2023-02-26T12:47:13Z" name="tc001" finished-at="2023-02-26T12:47:33Z" duration-ms="20038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- com.hrms.scripts.Tc001_login -->
+      <class name="com.hrms.scripts.Tc004_delete">
+        <test-method signature="tc004()[pri:0, instance:com.hrms.scripts.Tc004_delete@106cc338]" started-at="2023-02-26T12:48:17Z" name="tc004" finished-at="2023-02-26T12:48:23Z" duration-ms="5581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc004 -->
+      </class> <!-- com.hrms.scripts.Tc004_delete -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

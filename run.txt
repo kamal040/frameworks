@@ -1,0 +1,4 @@
+set projectLocation=D:\TestWS\selenium_frames
+cd %projectLocation%
+set classpath=%projectLocation%\bin;%projectLocation%\lib\
+java.org.testng.TestNG %projectLocation%\testng.xml
